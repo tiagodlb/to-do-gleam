@@ -210,7 +210,7 @@ Here are several ways you could improve your Todo API:
 
 9. **Database Migrations**: Set up a proper migration system instead of a single setup script.
 
-## Feature Enhancements
+## Future Enhancements
 
 1. **Authentication & Authorization**: Add user accounts and protected endpoints.
 
